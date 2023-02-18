@@ -15,6 +15,5 @@ Hey!
 ![prompt2.png](prompt2.png)
 ![prompt3.png](prompt3.png)
 ![prompt4.png](prompt4.png)
-![prompt5.png](prompt5.png)
 
 > This is still a work in progress. 
